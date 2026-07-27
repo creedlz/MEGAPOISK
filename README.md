@@ -22,7 +22,7 @@ I’d love for someone to suggest how to improve this. I’m always open to advi
 
 Главное окно:
 
-![Главное окно](screenshots/main_window.png)
+![Главное окно](MEGAPOISK/screenshots/main_window.png)
 
 Поиск:
 
