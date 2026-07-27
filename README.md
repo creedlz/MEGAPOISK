@@ -26,8 +26,8 @@ I’d love for someone to suggest how to improve this. I’m always open to advi
 
 Поиск:
 
-![Поиск](screenshots/search.png)
+![Поиск](MEGAPOISK/screenshots/search.png)
 
 Избранное:
 
-![Избранное](screenshots/favorites.png)
+![Избранное](MEGAPOISK/screenshots/favorites.png)
